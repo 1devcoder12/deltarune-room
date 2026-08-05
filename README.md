@@ -2,8 +2,8 @@
 Deltarune Room‑ID Gallery，全章节房间场景浏览查询工具。
 
 ## 在线访问
-Cloudflare Pages（国内推荐）：https://dr.xiaoqiao.qzz.io
-GitHub Pages（备份）：https://1devcoder12.github.io/deltarune‑room/
+Cloudflare Pages（国内推荐）：https://dr.xiaoqiao.qzz.io/
+GitHub Pages（备份）：https://1devcoder12.github.io/deltarune-room/
 
 ## 功能
 ✅ 第一章～第五章全部房间场景预览
